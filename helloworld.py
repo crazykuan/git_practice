@@ -1,1 +1,4 @@
-This is the first python program
+#!/usr/bin/python
+
+
+print ("This is the first python program")
